@@ -1,0 +1,2 @@
+--Alsploit Blatent Config (EASY)
+
