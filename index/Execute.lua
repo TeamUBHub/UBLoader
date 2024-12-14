@@ -3,7 +3,7 @@ loadstring(game:HttpGet("https://raw.githubusercontent.com/TeamUBHub/UBLoader/re
 for PlaceID, Execute in pairs(Games) do
     if PlaceID == game.PlaceId then
         loadstring(game:HttpGet(Execute))()
-        return -- Exit the loop once the matching script is executed
+        return
     end
 end
 
