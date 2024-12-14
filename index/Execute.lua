@@ -7,4 +7,4 @@ for PlaceID, Execute in pairs(Games) do
     end
 end
 
-loadstring(game:HttpGet("https://raw.githubusercontent.com/UnboundedScripts/UniversalUltra/refs/heads/main/script.lua"))()
+loadstring(game:HttpGet("https://raw.githubusercontent.com/UnboundedScripts/Game-Scripts/refs/heads/main/UniversalScript.lua"))()
