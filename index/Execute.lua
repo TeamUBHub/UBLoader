@@ -7,4 +7,4 @@ for PlaceID, Execute in pairs(Games) do
     end
 end
 
-loadstring(game:HttpGet("https://raw.githubusercontent.com/TeamUBHub/Game-Scripts/refs/heads/main/UniversalScript.lua"))()
+loadstring(game:HttpGet("https://raw.githubusercontent.com/TeamUBHub/Script-Roblox/refs/heads/main/UniversalScript.lua"))()
