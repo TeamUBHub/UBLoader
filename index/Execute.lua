@@ -1,4 +1,4 @@
-loadstring(game:HttpGet("https://raw.githubusercontent.com/UnboundedScripts/UBLoader/refs/heads/main/index/Game.lua"))()
+loadstring(game:HttpGet("https://raw.githubusercontent.com/TeamUBHub/UBLoader/refs/heads/main/index/Game.lua"))()
 
 for PlaceID, Execute in pairs(Games) do
     if PlaceID == game.PlaceId then
@@ -7,4 +7,4 @@ for PlaceID, Execute in pairs(Games) do
     end
 end
 
-loadstring(game:HttpGet("https://raw.githubusercontent.com/UnboundedScripts/Game-Scripts/refs/heads/main/UniversalScript.lua"))()
+loadstring(game:HttpGet("https://raw.githubusercontent.com/TeamUBHub/Game-Scripts/refs/heads/main/UniversalScript.lua"))()
