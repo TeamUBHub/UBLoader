@@ -3,18 +3,18 @@ name: Sync GitHub to Azure DevOps
 on:
   push:
     branches:
-      - main  # Trigger on pushes to the main branch
+      - main
 
 jobs:
   sync:
-    runs-on: ubuntu-latest  # Run the job on the latest Ubuntu environment
+    runs-on: ubuntu-latest
 
     steps:
     # Step 1: Checkout the GitHub Repository
     - name: Checkout GitHub Repository
       uses: actions/checkout@v3
 
-    # Step 2: Set up Git (to commit with your identity)
+    # Step 2: Set up Git
     - name: Set up Git
       run: |
         git config --global user.name "Muhammad H"
