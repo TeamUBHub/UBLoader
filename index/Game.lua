@@ -7,4 +7,5 @@ getgenv().Games = {
   [12338455185] = "https://raw.githubusercontent.com/TeamUBHub/Script-Roblox/refs/heads/main/TRT2.lua", -- Tropical Resort tycoon 2
   [7606564092] = "https://raw.githubusercontent.com/TeamUBHub/Script-Roblox/refs/heads/main/ShrimpGame.lua", --Shrimp Game
   [7606602544] = "https://raw.githubusercontent.com/TeamUBHub/Script-Roblox/refs/heads/main/ShrimpGame.lua", --Shrimp Game (PLAY)
+  [10449761463] = "https://raw.githubusercontent.com/TeamUBHub/Script-Roblox/refs/heads/main/TSB.lua", --The Strongest battlegrounds
 }
