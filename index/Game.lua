@@ -8,4 +8,5 @@ getgenv().Games = {
   [7606564092] = "https://raw.githubusercontent.com/TeamUBHub/Script-Roblox/refs/heads/main/ShrimpGame.lua", --Shrimp Game
   [7606602544] = "https://raw.githubusercontent.com/TeamUBHub/Script-Roblox/refs/heads/main/ShrimpGame.lua", --Shrimp Game (PLAY)
   [10449761463] = "https://raw.githubusercontent.com/TeamUBHub/Script-Roblox/refs/heads/main/TSB.lua", --The Strongest battlegrounds
+  [16732694052] = "https://raw.githubusercontent.com/TeamUBHub/Script-Roblox/refs/heads/main/Fishc.lua", --Fishc
 }
