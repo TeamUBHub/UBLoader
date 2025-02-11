@@ -11,6 +11,7 @@ local SaveManager = {} do
 			Load = function(idx, data)
 				if SaveManager.Options[idx] then 
 					SaveManager.Options[idx]:SetValue(data.value)
+					SaveManager:Save("default")
 				end
 			end,
 		},
@@ -21,6 +22,7 @@ local SaveManager = {} do
 			Load = function(idx, data)
 				if SaveManager.Options[idx] then 
 					SaveManager.Options[idx]:SetValue(data.value)
+					SaveManager:Save("default")
 				end
 			end,
 		},
@@ -31,6 +33,7 @@ local SaveManager = {} do
 			Load = function(idx, data)
 				if SaveManager.Options[idx] then 
 					SaveManager.Options[idx]:SetValue(data.value)
+					SaveManager:Save("default")
 				end
 			end,
 		},
@@ -41,6 +44,7 @@ local SaveManager = {} do
 			Load = function(idx, data)
 				if SaveManager.Options[idx] then 
 					SaveManager.Options[idx]:SetValueRGB(Color3.fromHex(data.value), data.transparency)
+					SaveManager:Save("default")
 				end
 			end,
 		},
@@ -51,6 +55,7 @@ local SaveManager = {} do
 			Load = function(idx, data)
 				if SaveManager.Options[idx] then 
 					SaveManager.Options[idx]:SetValue(data.key, data.mode)
+					SaveManager:Save("default")
 				end
 			end,
 		},
@@ -62,6 +67,7 @@ local SaveManager = {} do
 			Load = function(idx, data)
 				if SaveManager.Options[idx] and type(data.text) == "string" then
 					SaveManager.Options[idx]:SetValue(data.text)
+					SaveManager:Save("default")
 				end
 			end,
 		},
@@ -84,10 +90,13 @@ local SaveManager = {} do
 		end
 
 		local fullPath = self.Folder .. "/settings/" .. name .. ".json"
-
 		local data = {
 			objects = {}
 		}
+
+		if not SaveManager.Options then
+			return false, "SaveManager.Options is not initialized"
+		end
 
 		for idx, option in next, SaveManager.Options do
 			if not self.Parser[option.Type] then continue end
@@ -179,32 +188,14 @@ local SaveManager = {} do
 	end
 
 	function SaveManager:LoadAutoloadConfig()
-		if isfile(self.Folder .. "/settings/autoload.txt") then
-			local name = readfile(self.Folder .. "/settings/autoload.txt")
-
-			local success, err = self:Load(name)
-			if not success then
-				return self.Library:Notify({
-					Title = "Interface",
-					Content = "Config loader",
-					SubContent = "Failed to load autoload config: " .. err,
-					Duration = 7
-				})
-			end
-
-			self.Library:Notify({
-				Title = "Interface",
-				Content = "Config loader",
-				SubContent = string.format("Auto loaded config %q", name),
-				Duration = 7
-			})
-		end
+		local name = "default"
+		self:Load(name)
 	end
 
 	function SaveManager:BuildConfigSection(tab)
 		assert(self.Library, "Must set SaveManager.Library")
 
-		local section = tab:AddSection("Configuration")
+		local section = tab:AddSection("Advanced Saver")
 
 		section:AddInput("SaveManager_ConfigName",    { Title = "Config name" })
 		section:AddDropdown("SaveManager_ConfigList", { Title = "Config list", Values = self:RefreshConfigList(), AllowNull = true })
@@ -293,8 +284,8 @@ local SaveManager = {} do
 		end})
 
 		local AutoloadButton
-		AutoloadButton = section:AddButton({Title = "Set as autoload", Description = "Current autoload config: none", Callback = function()
-			local name = SaveManager.Options.SaveManager_ConfigList.Value
+		AutoloadButton = section:AddButton({Title = "Set as autoload", Description = "Current autoload config: default", Callback = function()
+			local name = "default"
 			writefile(self.Folder .. "/settings/autoload.txt", name)
 			AutoloadButton:SetDesc("Current autoload config: " .. name)
 			self.Library:Notify({
@@ -305,15 +296,21 @@ local SaveManager = {} do
 			})
 		end})
 
-		if isfile(self.Folder .. "/settings/autoload.txt") then
-			local name = readfile(self.Folder .. "/settings/autoload.txt")
-			AutoloadButton:SetDesc("Current autoload config: " .. name)
-		end
-
 		SaveManager:SetIgnoreIndexes({ "SaveManager_ConfigList", "SaveManager_ConfigName" })
 	end
 
+	function SaveManager:AutoSave()
+		while true do
+			task.wait(5)
+			self:Save("default")
+		end
+	end
+
 	SaveManager:BuildFolderTree()
+	SaveManager:Save("default")
+	writefile(SaveManager.Folder .. "/settings/autoload.txt", "default")
+	SaveManager:LoadAutoloadConfig()
+	task.spawn(function() SaveManager:AutoSave() end)
 end
 
 return SaveManager
