@@ -11,4 +11,5 @@ getgenv().Games = {
   [16732694052] = "https://raw.githubusercontent.com/TeamUBHub/Script-Roblox/refs/heads/main/Fishc.lua", --Fishc
   [73956553001240] = "https://raw.githubusercontent.com/TeamUBHub/Script-Roblox/refs/heads/main/Haikyuu.lua", --Vollyball Legends
   [70876832253163] = "https://raw.githubusercontent.com/TeamUBHub/Script-Roblox/refs/heads/main/DeadRails.lua", --Dead Rails (GAME)
+  [116495829188952] = "https://gitlab.com/r_soft/main/-/raw/main/Others/deadrails.lua", --Dead Rails [APLHA]
 }
