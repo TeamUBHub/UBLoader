@@ -13,7 +13,6 @@ getgenv().Games = {
     [73956553001240] = "https://raw.githubusercontent.com/TeamUBHub/Script-Roblox/refs/heads/main/Haikyuu.lua", --Vollyball Legends
     [70876832253163] = "https://raw.githubusercontent.com/TeamUBHub/Script-Roblox/refs/heads/main/DeadRails.lua", --Dead Rails (GAME)
     [116495829188952] = "https://gitlab.com/r_soft/main/-/raw/main/Others/deadrails.lua", --Dead Rails [APLHA]
-    [18901165922] = "https://raw.githubusercontent.com/TeamUBHub/Script-Roblox/refs/heads/main/Pet%20GO.lua", -- Pets GO
     [2474168535] = "https://raw.githubusercontent.com/TeamUBHub/Script-Roblox/refs/heads/main/WestBound.lua", -- WestBound
     [11157166793] = "https://raw.githubusercontent.com/TeamUBHub/Script-Roblox/refs/heads/main/AntWar.lua", -- Ant War
     [3101667897] = "https://raw.githubusercontent.com/TeamUBHub/Script-Roblox/refs/heads/main/LegendsofSpeed.lua", --Legends of speed
