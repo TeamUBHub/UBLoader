@@ -18,4 +18,5 @@ getgenv().Games = {
     [3101667897] = "https://raw.githubusercontent.com/TeamUBHub/Script-Roblox/refs/heads/main/LegendsofSpeed.lua", --Legends of speed
     [14259168147] = "https://raw.githubusercontent.com/TeamUBHub/Script-Roblox/refs/heads/main/BasketballLegends.lua", --Basketball Legends
     [142823291] = "https://raw.githubusercontent.com/TeamUBHub/Script-Roblox/refs/heads/main/MurderMystery2.lua", --Murder Mystery 2
+    [1962086868] = "https://raw.githubusercontent.com/TeamUBHub/Script-Roblox/refs/heads/main/Towerofhell.lua", --Tower of hell
   }
