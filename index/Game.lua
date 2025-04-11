@@ -16,10 +16,11 @@ getgenv().Games = {
     [2474168535] = "https://raw.githubusercontent.com/TeamUBHub/Script-Roblox/refs/heads/main/WestBound.lua", -- WestBound
     [11157166793] = "https://raw.githubusercontent.com/TeamUBHub/Script-Roblox/refs/heads/main/AntWar.lua", -- Ant War
     [3101667897] = "https://raw.githubusercontent.com/TeamUBHub/Script-Roblox/refs/heads/main/LegendsofSpeed.lua", --Legends of speed
-    [14259168147] = "https://raw.githubusercontent.com/TeamUBHub/Script-Roblox/refs/heads/main/BasketballLegends.lua", --Basketball Legends
-[14386691987] = "https://raw.githubusercontent.com/TeamUBHub/Script-Roblox/refs/heads/main/BasketballLegends.lua", --Basketball Legends my park 
+    [14259168147] = "https://raw.githubusercontent.com/TeamUBHub/Script-Roblox/refs/heads/main/BasketballLegends.lua", --Basketball Legend
+    [14386691987] = "https://raw.githubusercontent.com/TeamUBHub/Script-Roblox/refs/heads/main/BasketballLegends.lua", --Basketball Legends my park 
     [142823291] = "https://raw.githubusercontent.com/TeamUBHub/Script-Roblox/refs/heads/main/MurderMystery2.lua", --Murder Mystery 2
     [1962086868] = "https://raw.githubusercontent.com/TeamUBHub/Script-Roblox/refs/heads/main/Towerofhell.lua", --Tower of hell
- [3582763398] = "https://raw.githubusercontent.com/TeamUBHub/Script-Roblox/refs/heads/main/Towerofhell.lua", --Tower of hell pro
+    [3582763398] = "https://raw.githubusercontent.com/TeamUBHub/Script-Roblox/refs/heads/main/Towerofhell.lua", --Tower of hell pro
+    [85896571713843] = "https://raw.githubusercontent.com/TeamUBHub/Script-Roblox/refs/heads/main/Bubble%20Gum%20Simulator%20INFINITY.lua", --Bubble Gum Simulator INF
 
   }
