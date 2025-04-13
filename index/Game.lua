@@ -24,4 +24,5 @@ getgenv().Games = {
     [85896571713843] = "https://raw.githubusercontent.com/TeamUBHub/Script-Roblox/refs/heads/main/Bubble%20Gum%20Simulator%20INFINITY.lua", --Bubble Gum Simulator INF
     [537413528] = "https://raw.githubusercontent.com/TeamUBHub/Script-Roblox/refs/heads/main/Build%20A%20Boat%20for%20Tresure.lua", --Build a Boat For Tresure
     [205224386] = "https://raw.githubusercontent.com/TeamUBHub/Script-Roblox/refs/heads/main/Hide%20and%20Seek%20Extreme.lua", --Hide and Seek Extreme
+    [126884695634066] = "https://raw.githubusercontent.com/TeamUBHub/Script-Roblox/refs/heads/main/Grow%20a%20Garden.lua", --Grow a garden
   }
