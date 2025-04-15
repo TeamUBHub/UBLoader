@@ -3,7 +3,7 @@ getgenv().Games = {
     [82584166303511] = "https://raw.githubusercontent.com/TeamUBHub/Script-Roblox/refs/heads/main/balltest_v2.lua", --Jimmy the Normal Ball
     --[3840352284] = "https://raw.githubusercontent.com/TeamUBHub/Script-Roblox/refs/heads/main/Volleyball%204.2.lua", --Volleyball 4.2
     [11276071411] = "https://raw.githubusercontent.com/TeamUBHub/Script-Roblox/refs/heads/main/BeNPCorDieV2.lua", --Be NPC or Die
-    [3678761576] = "https://raw.githubusercontent.com/TeamUBHub/Script-Roblox/refs/heads/main/Entrenched.lua", --ENTRENCHED WW1 BETA
+    [3678761576] = "https://raw.githubusercontent.com/TeamUBHub/Script-Roblox/refs/heads/main/EntrenchedV2.lua", --ENTRENCHED WW1 BETA
     [12338455185] = "https://raw.githubusercontent.com/TeamUBHub/Script-Roblox/refs/heads/main/TRT2.lua", -- Tropical Resort tycoon 2
     [7606564092] = "https://raw.githubusercontent.com/TeamUBHub/Script-Roblox/refs/heads/main/ShrimpGame.lua", --Shrimp Game
     [7606602544] = "https://raw.githubusercontent.com/TeamUBHub/Script-Roblox/refs/heads/main/ShrimpGame.lua", --Shrimp Game (PLAY)
@@ -24,6 +24,5 @@ getgenv().Games = {
     [85896571713843] = "https://raw.githubusercontent.com/TeamUBHub/Script-Roblox/refs/heads/main/Bubble%20Gum%20Simulator%20INFINITY.lua", --Bubble Gum Simulator INF
     [537413528] = "https://raw.githubusercontent.com/TeamUBHub/Script-Roblox/refs/heads/main/Build%20A%20Boat%20for%20Tresure.lua", --Build a Boat For Tresure
     [205224386] = "https://raw.githubusercontent.com/TeamUBHub/Script-Roblox/refs/heads/main/Hide%20and%20Seek%20Extreme.lua", --Hide and Seek Extreme
-    [126884695634066] = "https://raw.githubusercontent.com/TeamUBHub/Script-Roblox/refs/heads/main/Grow%20a%20Garden.lua", --Grow a garden
     [110452937713422] = "https://raw.githubusercontent.com/TeamUBHub/Script-Roblox/refs/heads/main/Deadfront.lua", --Dead Front
   }
