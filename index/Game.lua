@@ -10,6 +10,7 @@ getgenv().Games = {
     [10449761463] = "https://raw.githubusercontent.com/TeamUBHub/Script-Roblox/refs/heads/main/TSB.lua", --The Strongest battlegrounds
     [16732694052] = "https://raw.githubusercontent.com/TeamUBHub/Script-Roblox/refs/heads/main/Fisch.lua", --Fisch
     [72907489978215] = "https://raw.githubusercontent.com/TeamUBHub/Script-Roblox/refs/heads/main/Fisch.lua", --Fisch Sea 2
+    [106011698424775] = "https://raw.githubusercontent.com/TeamUBHub/Script-Roblox/refs/heads/main/Fisch.lua", --Fisch Deep Sea
     [73956553001240] = "https://raw.githubusercontent.com/TeamUBHub/Script-Roblox/refs/heads/main/Haikyuu.lua", --Vollyball Legends
     [134314141048307] = "https://raw.githubusercontent.com/TeamUBHub/Script-Roblox/refs/heads/main/Haikyuu.lua", --Volleyball legends 2
     [96802054849934] = "https://raw.githubusercontent.com/TeamUBHub/Script-Roblox/refs/heads/main/Haikyuu.lua", --volleyball legends practise
