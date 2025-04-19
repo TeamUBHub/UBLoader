@@ -29,4 +29,5 @@ getgenv().Games = {
     [205224386] = "https://raw.githubusercontent.com/TeamUBHub/Script-Roblox/refs/heads/main/Hide%20and%20Seek%20Extreme.lua", --Hide and Seek Extreme
     [110452937713422] = "https://raw.githubusercontent.com/TeamUBHub/Script-Roblox/refs/heads/main/Deadfront.lua", --Dead Front
     [94989759195758] = "https://raw.githubusercontent.com/TeamUBHub/Script-Roblox/refs/heads/main/Deadfront.lua", --Dead front
+    [122678592501168] = "https://raw.githubusercontent.com/TeamUBHub/Script-Roblox/refs/heads/main/Beaks.lua", --Beaks
   }
