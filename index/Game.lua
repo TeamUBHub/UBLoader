@@ -8,7 +8,6 @@ getgenv().Games = {
     [7606602544] = "https://raw.githubusercontent.com/TeamUBHub/Script-Roblox/refs/heads/main/ShrimpGame.lua", --Shrimp Game (PLAY)
     [16732694052] = "https://raw.githubusercontent.com/TeamUBHub/Script-Roblox/refs/heads/main/Fisch.lua", --Fisch
     [72907489978215] = "https://raw.githubusercontent.com/TeamUBHub/Script-Roblox/refs/heads/main/Fisch.lua", --Fisch Sea 2
-    [106011698424775] = "https://raw.githubusercontent.com/TeamUBHub/Script-Roblox/refs/heads/main/Fisch.lua", --Fisch Deep Sea
     [70876832253163] = "https://raw.githubusercontent.com/TeamUBHub/Script-Roblox/refs/heads/main/DeadRails.lua", --Dead Rails (GAME)
     [116495829188952] = "https://gitlab.com/r_soft/main/-/raw/main/Others/deadrails.lua", --Dead Rails [APLHA]
     [2474168535] = "https://raw.githubusercontent.com/TeamUBHub/Script-Roblox/refs/heads/main/WestBound.lua", -- WestBound
