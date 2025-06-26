@@ -20,4 +20,5 @@ getgenv().Games = {
     [126884695634066] = "https://raw.githubusercontent.com/TeamUBHub/Script-Roblox/refs/heads/main/Grow%20a%20Garden.lua", --Grow a garden
     [87700573492940] = "https://raw.githubusercontent.com/TeamUBHub/Script-Roblox/refs/heads/main/Untitled%20Drill%20Game.lua", --Untitled Drill Game
     [893973440] = "https://raw.githubusercontent.com/TeamUBHub/Script-Roblox/refs/heads/main/Flee%20the%20Facility.Lua", --Flee the Facility
+    [109983668079237] = "https://raw.githubusercontent.com/TeamUBHub/Script-Roblox/refs/heads/main/StealABrainrot.lua", -- Steal A Brainrot
   }
