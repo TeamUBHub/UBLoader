@@ -6,6 +6,7 @@ getgenv().Games = {
     [2474168535] = "https://raw.githubusercontent.com/TeamUBHub/Script-Roblox/refs/heads/main/WestBound.lua",
     [3101667897] = "https://raw.githubusercontent.com/TeamUBHub/Script-Roblox/refs/heads/main/LegendsofSpeed.lua",
     [3678761576] = "https://raw.githubusercontent.com/TeamUBHub/Script-Roblox/refs/heads/main/EntrenchedV2.lua",
+    [7991339063] = "https://raw.githubusercontent.com/TeamUBHub/Script-Roblox/main/RainbowFriend2.lua",
     [11157166793] = "https://raw.githubusercontent.com/TeamUBHub/Script-Roblox/refs/heads/main/AntWar.lua",
     [11276071411] = "https://raw.githubusercontent.com/TeamUBHub/Script-Roblox/refs/heads/main/BeNPCorDie.lua",
     [12338455185] = "https://raw.githubusercontent.com/TeamUBHub/Script-Roblox/refs/heads/main/TRT2.lua",
