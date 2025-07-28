@@ -30,6 +30,7 @@ local Games = {
     [126244816328678] = "https://raw.githubusercontent.com/TeamUBHub/Script-Roblox/refs/heads/main/Dig.lua",
     [126509999114328] = "https://raw.githubusercontent.com/TeamUBHub/Script-Roblox/refs/heads/main/99%20Nights%20in%20the%20Forest.lua",
     [126884695634066] = "https://raw.githubusercontent.com/TeamUBHub/Script-Roblox/refs/heads/main/Grow%20a%20Garden.lua",
+    [131716211654599] = "https://raw.githubusercontent.com/TeamUBHub/Script-Roblox/refs/heads/main/Fisch.lua",
     [137925884276740] = "https://raw.githubusercontent.com/TeamUBHub/Script-Roblox/main/BuildAPlane.lua",
 }
 return Games
