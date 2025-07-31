@@ -13,6 +13,7 @@ local Games = {
     [12338455185] = "https://raw.githubusercontent.com/TeamUBHub/Script-Roblox/refs/heads/main/TRT2.lua",
     [12355337193] = "https://raw.githubusercontent.com/TeamUBHub/Script-Roblox/refs/heads/main/Murders%20VS%20Sheriff.lua",
     [13771457545] = "https://raw.githubusercontent.com/TeamUBHub/Script-Roblox/refs/heads/main/Murders%20VS%20Sheriff.lua",
+    [14518422161] = "https://raw.githubusercontent.com/TeamUBHub/Script-Roblox/main/GunfightArena.lua",
     [15869837051] = "https://raw.githubusercontent.com/TeamUBHub/Script-Roblox/refs/heads/main/balltest_v2.lua",
     [16732694052] = "https://raw.githubusercontent.com/TeamUBHub/Script-Roblox/refs/heads/main/Fisch.lua",
     [70876832253163] = "https://raw.githubusercontent.com/TeamUBHub/Script-Roblox/refs/heads/main/DeadRails.lua",
