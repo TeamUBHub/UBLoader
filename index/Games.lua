@@ -8,7 +8,6 @@ local Games = {
     [3678761576] = "https://raw.githubusercontent.com/TeamUBHub/Script-Roblox/refs/heads/main/EntrenchedV2.lua",
     [7991339063] = "https://raw.githubusercontent.com/TeamUBHub/Script-Roblox/main/RainbowFriend2.lua",
     [8260276694] = "https://raw.githubusercontent.com/TeamUBHub/Script-Roblox/refs/heads/main/Ability%20Wars.lua",
-    [11157166793] = "https://raw.githubusercontent.com/TeamUBHub/Script-Roblox/refs/heads/main/AntWar.lua",
     [11276071411] = "https://raw.githubusercontent.com/TeamUBHub/Script-Roblox/refs/heads/main/BeNPCorDie.lua",
     [12338455185] = "https://raw.githubusercontent.com/TeamUBHub/Script-Roblox/refs/heads/main/TRT2.lua",
     [12355337193] = "https://raw.githubusercontent.com/TeamUBHub/Script-Roblox/refs/heads/main/Murders%20VS%20Sheriff.lua",
