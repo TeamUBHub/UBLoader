@@ -26,7 +26,6 @@ local Games = {
     [99567941238278] = "https://raw.githubusercontent.com/TeamUBHub/Script-Roblox/refs/heads/main/Ink%20Game.lua",
     [109983668079237] = "https://raw.githubusercontent.com/TeamUBHub/Script-Roblox/refs/heads/main/StealABrainrot.lua",
     [116495829188952] = "https://gitlab.com/r_soft/main/-/raw/main/Others/deadrails.lua",
-    [122678592501168] = "https://raw.githubusercontent.com/TeamUBHub/Script-Roblox/refs/heads/main/Beaks.lua",
     [125009265613167] = "https://raw.githubusercontent.com/TeamUBHub/Script-Roblox/refs/heads/main/Ink%20Game.lua",
     [126244816328678] = "https://raw.githubusercontent.com/TeamUBHub/Script-Roblox/refs/heads/main/Dig.lua",
     [126509999114328] = "https://raw.githubusercontent.com/TeamUBHub/Script-Roblox/refs/heads/main/99%20Nights%20in%20the%20Forest.lua",
