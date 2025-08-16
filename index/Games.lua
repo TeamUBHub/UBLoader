@@ -15,7 +15,6 @@ local Games = {
     [16732694052] = "https://raw.githubusercontent.com/TeamUBHub/Script-Roblox/refs/heads/main/Fisch.lua",
     [72907489978215] = "https://raw.githubusercontent.com/TeamUBHub/Script-Roblox/refs/heads/main/Fisch.lua",
     [79546208627805] = "https://raw.githubusercontent.com/TeamUBHub/Script-Roblox/refs/heads/main/99%20Nights%20in%20the%20Forest.lua",
-    [82584166303511] = "https://raw.githubusercontent.com/TeamUBHub/Script-Roblox/refs/heads/main/balltest_v2.lua",
     [85896571713843] = "https://raw.githubusercontent.com/TeamUBHub/Script-Roblox/refs/heads/main/Bubble%20Gum%20Simulator%20INFINITY.lua",
     [87700573492940] = "https://raw.githubusercontent.com/TeamUBHub/Script-Roblox/refs/heads/main/Untitled%20Drill%20Game.lua",
     [99567941238278] = "https://raw.githubusercontent.com/TeamUBHub/Script-Roblox/refs/heads/main/Ink%20Game.lua",
