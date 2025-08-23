@@ -5,6 +5,7 @@ local Games = {
     [3101667897] = "https://raw.githubusercontent.com/TeamUBHub/Script-Roblox/refs/heads/main/LegendsofSpeed.lua",
     [3678761576] = "https://raw.githubusercontent.com/TeamUBHub/Script-Roblox/refs/heads/main/EntrenchedV2.lua",
     [7991339063] = "https://raw.githubusercontent.com/TeamUBHub/Script-Roblox/main/RainbowFriend2.lua",
+    [13622981808] = "https://raw.githubusercontent.com/TeamUBHub/Script-Roblox/main/RainbowFriend2.lua",
     [8260276694] = "https://raw.githubusercontent.com/TeamUBHub/Script-Roblox/refs/heads/main/Ability%20Wars.lua",
     [11276071411] = "https://raw.githubusercontent.com/TeamUBHub/Script-Roblox/refs/heads/main/BeNPCorDie.lua",
     [12338455185] = "https://raw.githubusercontent.com/TeamUBHub/Script-Roblox/refs/heads/main/TRT2.lua",
