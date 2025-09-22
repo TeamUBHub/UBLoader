@@ -1,4 +1,4 @@
-local Games = {
+return = {
     [537413528] = "https://raw.githubusercontent.com/TeamUBHub/Script-Roblox/refs/heads/main/Build%20A%20Boat%20for%20Tresure.lua",
     [893973440] = "https://raw.githubusercontent.com/TeamUBHub/Script-Roblox/refs/heads/main/Flee%20the%20Facility.Lua",
     [1962086868] = "https://raw.githubusercontent.com/TeamUBHub/Script-Roblox/refs/heads/main/Towerofhell.lua",
@@ -29,4 +29,3 @@ local Games = {
     [103754275310547] = "https://raw.githubusercontent.com/TeamUBHub/Script-Roblox/refs/heads/main/Hunty%20Zombie.lua",
     [121864768012064] = "https://raw.githubusercontent.com/TeamUBHub/Script-Roblox/refs/heads/main/Fish%20It.lua",
 }
-return Games
