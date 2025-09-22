@@ -1,4 +1,4 @@
-return = {
+return {
     [537413528] = "https://raw.githubusercontent.com/TeamUBHub/Script-Roblox/refs/heads/main/Build%20A%20Boat%20for%20Tresure.lua",
     [893973440] = "https://raw.githubusercontent.com/TeamUBHub/Script-Roblox/refs/heads/main/Flee%20the%20Facility.Lua",
     [1962086868] = "https://raw.githubusercontent.com/TeamUBHub/Script-Roblox/refs/heads/main/Towerofhell.lua",
