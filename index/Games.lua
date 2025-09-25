@@ -18,7 +18,6 @@ return {
     [79546208627805] = "https://raw.githubusercontent.com/TeamUBHub/Script-Roblox/refs/heads/main/99%20Nights%20in%20the%20Forest.lua",
     [85896571713843] = "https://raw.githubusercontent.com/TeamUBHub/Script-Roblox/refs/heads/main/Bubble%20Gum%20Simulator%20INFINITY.lua",
     [87700573492940] = "https://raw.githubusercontent.com/TeamUBHub/Script-Roblox/refs/heads/main/Untitled%20Drill%20Game.lua",
-    [126244816328678] = "https://raw.githubusercontent.com/TeamUBHub/Script-Roblox/refs/heads/main/Dig.lua",
     [126509999114328] = "https://raw.githubusercontent.com/TeamUBHub/Script-Roblox/refs/heads/main/99%20Nights%20in%20the%20Forest.lua",
     [126884695634066] = "https://raw.githubusercontent.com/TeamUBHub/Script-Roblox/refs/heads/main/Grow%20a%20Garden.lua",
     [91867617264223] = "https://raw.githubusercontent.com/TeamUBHub/Script-Roblox/refs/heads/main/Grow%20a%20Garden.lua",
