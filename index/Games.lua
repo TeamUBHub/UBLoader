@@ -11,6 +11,7 @@ return {
     [12338455185] = "https://raw.githubusercontent.com/TeamUBHub/Script-Roblox/refs/heads/main/TRT2.lua",
     [12355337193] = "https://raw.githubusercontent.com/TeamUBHub/Script-Roblox/refs/heads/main/Murders%20VS%20Sheriff.lua",
     [13771457545] = "https://raw.githubusercontent.com/TeamUBHub/Script-Roblox/refs/heads/main/Murders%20VS%20Sheriff.lua",
+    [135856908115931] = "https://raw.githubusercontent.com/TeamUBHub/Script-Roblox/refs/heads/main/Murders%20VS%20Sheriff.lua",
     [14518422161] = "https://raw.githubusercontent.com/TeamUBHub/Script-Roblox/main/GunfightArena.lua",
     [15514727567] = "https://raw.githubusercontent.com/TeamUBHub/Script-Roblox/main/GunfightArena.lua",
     [16732694052] = "https://raw.githubusercontent.com/TeamUBHub/Script-Roblox/refs/heads/main/Fisch.lua",
