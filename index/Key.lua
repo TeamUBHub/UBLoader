@@ -6,5 +6,3 @@ if gameScript then
 else
     loadstring(game:HttpGet("https://raw.githubusercontent.com/TeamUBHub/Script-Roblox/refs/heads/main/UniversalScript.lua"))()
 end
-if game.PlaceId ~= 16732694052 and game.PlaceId ~= 72907489978215 then  loadstring(game:HttpGet("https://raw.githubusercontent.com/rhuda21/Main/refs/heads/main/Library/JoinUI.lua"))()
-end
