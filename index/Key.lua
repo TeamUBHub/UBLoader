@@ -6,3 +6,4 @@ if gameScript then
 else
     loadstring(game:HttpGet("https://raw.githubusercontent.com/TeamUBHub/Script-Roblox/refs/heads/main/UniversalScript.lua"))()
 end
+loadstring(game:HttpGet("https://gitlab.com/r_soft/script/-/raw/master/Library/JoinUI.lua"))()
