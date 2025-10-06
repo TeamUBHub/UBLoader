@@ -24,10 +24,7 @@ return {
     [124977557560410] = "https://raw.githubusercontent.com/TeamUBHub/Script-Roblox/refs/heads/main/Grow%20a%20Garden.lua",
     [131716211654599] = "https://raw.githubusercontent.com/TeamUBHub/Script-Roblox/refs/heads/main/Fisch.lua",
     [137925884276740] = "https://raw.githubusercontent.com/TeamUBHub/Script-Roblox/main/BuildAPlane.lua",
-    [86076978383613] = "https://raw.githubusercontent.com/TeamUBHub/Script-Roblox/refs/heads/main/Hunty%20Zombie.lua",
-    [103754275310547] = "https://raw.githubusercontent.com/TeamUBHub/Script-Roblox/refs/heads/main/Hunty%20Zombie.lua",
     [121864768012064] = "https://raw.githubusercontent.com/TeamUBHub/Script-Roblox/refs/heads/main/Fish%20It.lua",
     [127742093697776] = "https://raw.githubusercontent.com/TeamUBHub/Script-Roblox/refs/heads/main/Plants%20vs%20Brainrot.lua",
     [18687417158] = "https://raw.githubusercontent.com/TeamUBHub/Script-Roblox/refs/heads/main/Forsaken.lua",
-    
 }
