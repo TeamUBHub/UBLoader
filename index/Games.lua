@@ -27,4 +27,5 @@ return {
     [127742093697776] = "https://raw.githubusercontent.com/TeamUBHub/Script-Roblox/refs/heads/main/Plants%20vs%20Brainrot.lua",
     [18687417158] = "https://raw.githubusercontent.com/TeamUBHub/Script-Roblox/refs/heads/main/Forsaken.lua",
     [142823291] = "https://raw.githubusercontent.com/TeamUBHub/Script-Roblox/refs/heads/main/Murder%20Mystery%202.lua",
+    [85896571713843] = "https://raw.githubusercontent.com/TeamUBHub/Script-Roblox/refs/heads/main/Bubble%20Gum%20Simulator%20Infinity.lua",
 }
