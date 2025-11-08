@@ -18,6 +18,6 @@ return {
     [8316902627] = "https://raw.githubusercontent.com/TeamUBHub/Script-Roblox/refs/heads/main/Plants%20vs%20Brainrot.lua",
     [6331902150] = "https://raw.githubusercontent.com/TeamUBHub/Script-Roblox/refs/heads/main/Forsaken.lua",
     [66654135] = "https://raw.githubusercontent.com/TeamUBHub/Script-Roblox/refs/heads/main/Murder%20Mystery%202.lua",
-    [85896571713843] = "https://raw.githubusercontent.com/TeamUBHub/Script-Roblox/refs/heads/main/Bubble%20Gum%20Simulator%20Infinity.lua",
+    [6504986360] = "https://raw.githubusercontent.com/TeamUBHub/Script-Roblox/refs/heads/main/Bubble%20Gum%20Simulator%20Infinity.lua",
     [703124385] = "https://raw.githubusercontent.com/TeamUBHub/Script-Roblox/refs/heads/main/Tower%20Of%20Hell.lua",
 }
