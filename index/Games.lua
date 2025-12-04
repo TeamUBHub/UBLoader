@@ -20,5 +20,5 @@ return {
     [66654135] = "https://raw.githubusercontent.com/TeamUBHub/Script-Roblox/refs/heads/main/Murder%20Mystery%202.lua",
     [6504986360] = "https://raw.githubusercontent.com/TeamUBHub/Script-Roblox/refs/heads/main/Bubble%20Gum%20Simulator%20Infinity.lua",
     [703124385] = "https://raw.githubusercontent.com/TeamUBHub/Script-Roblox/refs/heads/main/Tower%20Of%20Hell.lua",
-    [7671049560] = "https://pandadevelopment.net/virtual/file/dbfbb3779822e178",
+    [7671049560] = "https://raw.githubusercontent.com/TeamUBHub/Script-Roblox/refs/heads/main/The%20Forge.lua",
 }
