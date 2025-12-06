@@ -3,7 +3,7 @@ return {
     [372226183] = "https://raw.githubusercontent.com/TeamUBHub/Script-Roblox/refs/heads/main/Flee%20the%20Facility.Lua",
     [1119466531] = "https://raw.githubusercontent.com/TeamUBHub/Script-Roblox/refs/heads/main/LegendsofSpeed.lua",
     [1281592938] = "https://raw.githubusercontent.com/TeamUBHub/Script-Roblox/refs/heads/main/EntrenchedV2.lua",
-    [1119466531] = "https://raw.githubusercontent.com/TeamUBHub/Script-Roblox/main/RainbowFriend2.lua",
+    [3085257211] = "https://raw.githubusercontent.com/TeamUBHub/Script-Roblox/main/RainbowFriend2.lua",
     [3168615253] = "https://raw.githubusercontent.com/TeamUBHub/Script-Roblox/refs/heads/main/Ability%20Wars.lua",
     [4019583467] = "https://raw.githubusercontent.com/TeamUBHub/Script-Roblox/refs/heads/main/BeNPCorDie.lua",
     [4343544885] = "https://raw.githubusercontent.com/TeamUBHub/Script-Roblox/refs/heads/main/TRT2.lua",
