@@ -22,4 +22,5 @@ return {
     [9363735110] = "https://raw.githubusercontent.com/TeamUBHub/Script-Roblox/refs/heads/main/Escape%20Tsunami%20For%20Brainrots.lua",
     [7709344486] = "https://raw.githubusercontent.com/TeamUBHub/Script-Roblox/refs/heads/main/Steal%20A%20Brainrot.lua",
     [8144728961] = "https://raw.githubusercontent.com/TeamUBHub/Script-Roblox/refs/heads/main/Abyss.lua",
+    [9649298941] = "https://raw.githubusercontent.com/TeamUBHub/Script-Roblox/refs/heads/main/Survive%20Lava%20For%20Brainrots.lua",
 }
