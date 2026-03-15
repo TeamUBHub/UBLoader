@@ -8,7 +8,6 @@ return {
     [4019583467] = "https://raw.githubusercontent.com/TeamUBHub/Script-Roblox/refs/heads/main/BeNPCorDie.lua",
     [4343544885] = "https://raw.githubusercontent.com/TeamUBHub/Script-Roblox/refs/heads/main/TRT2.lua",
     [4348829796] = "https://raw.githubusercontent.com/TeamUBHub/Script-Roblox/refs/heads/main/Murders%20VS%20Sheriff.lua",
-    [5012222382] = "https://raw.githubusercontent.com/TeamUBHub/Script-Roblox/main/GunfightArena.lua",
     [5750914919] = "https://raw.githubusercontent.com/TeamUBHub/Script-Roblox/refs/heads/main/Fisch.lua",
     [7513130835] = "https://raw.githubusercontent.com/TeamUBHub/Script-Roblox/refs/heads/main/Untitled%20Drill%20Game.lua",
     [7436755782] = "https://raw.githubusercontent.com/TeamUBHub/Script-Roblox/refs/heads/main/Grow%20a%20Garden.lua",
