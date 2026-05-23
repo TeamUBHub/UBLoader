@@ -15,9 +15,7 @@ return {
     [8316902627] = "https://raw.githubusercontent.com/TeamUBHub/Script-Roblox/refs/heads/main/Plants%20vs%20Brainrot.lua",
     [66654135] = "https://raw.githubusercontent.com/TeamUBHub/Script-Roblox/refs/heads/main/Murder%20Mystery%202.lua",
     [6504986360] = "https://raw.githubusercontent.com/TeamUBHub/Script-Roblox/refs/heads/main/Bubble%20Gum%20Simulator%20Infinity.lua",
-    [703124385] = "https://raw.githubusercontent.com/TeamUBHub/Script-Roblox/refs/heads/main/Tower%20Of%20Hell.lua",
     [7671049560] = "https://raw.githubusercontent.com/TeamUBHub/Script-Roblox/refs/heads/main/The%20Forge.lua",
     [7709344486] = "https://raw.githubusercontent.com/TeamUBHub/Script-Roblox/refs/heads/main/Steal%20A%20Brainrot.lua",
-    [8144728961] = "https://raw.githubusercontent.com/TeamUBHub/Script-Roblox/refs/heads/main/Abyss.lua",
     [9649298941] = "https://raw.githubusercontent.com/TeamUBHub/Script-Roblox/refs/heads/main/Survive%20Lava%20For%20Brainrots.lua",
 }
